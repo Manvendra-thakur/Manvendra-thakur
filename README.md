@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓Btech CSE, RMLAU'27<br>🎯Full Stack Java Developer ☕ | DSA Strong 💻 | Spring Boot • Angular • MySQL |<br>      Prompt Engineering 🤖 | Claude Mastery 🧠 | Agentic AI 🚀 <br>      |Building scalable applications & AI-powered solutions<br>
+🎓Btech CSE, RMLAU'27<br>🎯Full Stack Java Developer ☕ | DSA Strong 💻 | Spring Boot • Angular • MySQL |  <br>      Prompt Engineering 🤖 | Claude Mastery 🧠 | Agentic AI 🚀   <br>      |Building scalable applications & AI-powered solutions<br>
 
 
 ## 🌐 Socials:
